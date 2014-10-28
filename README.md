@@ -4,7 +4,7 @@
 Using Font Icon Set within Label to display weather icon 
  [Weather 7 Icon Font Set]
 
-![enter image description here](https://cloud.githubusercontent.com/assets/5112118/4805910/0287eb22-5e83-11e4-991b-efb3f930023c.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/5112118/4806035/ac1d7926-5e84-11e4-8d56-def7dd81adb1.png)
 
 **Usage**
 ----
